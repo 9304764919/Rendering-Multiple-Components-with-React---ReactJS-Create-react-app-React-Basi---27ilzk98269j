@@ -3,7 +3,11 @@ import '../styles/App.css';
 
 const App = () => {
   return (
-    <div id="main"></div>
+    <div id="main">
+    <h1>Facebook</h1>
+    <h2> Social Media clone App</h2>
+    
+    </div>
   )
 }
 
